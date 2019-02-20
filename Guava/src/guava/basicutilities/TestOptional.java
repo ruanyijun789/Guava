@@ -1,4 +1,4 @@
-package guava;
+package guava.basicutilities;
 import com.google.common.base.Optional;
 
 public class TestOptional {
